@@ -43,6 +43,9 @@ flex-direction: row | row-reverse | column | column-reverse | initial
 /* justify-content */
 justify-content: flex-start|flex-end|center|space-between|space-around|initial|inherit;
 
+/* Vertical Centering */
+With Flexbox, you can stop worrying. You can align anything (vertically or horizontally) quite painlessly with the align-items, align-self, and justify-content properties.
+
 /*  will-change */
 /* Keyword values */
 will-change: auto;
