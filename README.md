@@ -16,10 +16,15 @@ CSS related stuff
 ### Index
 * [inspiration](#user-content-inspiration)
 
+* [Best free stock photos in one place](#user-content-best-free-stock-photos-in-one-place)
+
 * [CSS features you should use](#user-content-css-features-you-should-use)
 
 ### inspiration
 [dribbble.com](https://dribbble.com/)
+
+### Best free stock photos in one place
+[pexels.com](https://www.pexels.com/)
 
 ### CSS features you should use
 ```css
