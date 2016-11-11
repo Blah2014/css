@@ -15,9 +15,8 @@ CSS related stuff
 
 ### Index
 * [inspiration](#user-content-inspiration)
-
 * [Best free stock photos in one place](#user-content-best-free-stock-photos-in-one-place)
-
+* [Flag icons](#user-content-flag-icons)
 * [CSS features you should use](#user-content-css-features-you-should-use)
 
 ### inspiration
@@ -25,6 +24,11 @@ CSS related stuff
 
 ### Best free stock photos in one place
 [pexels.com](https://www.pexels.com/)
+
+### Flag icons
+[flag-icon-css](http://flag-icon-css.lip.is/)
+
+[flag sprites](https://www.flag-sprites.com/)
 
 ### CSS features you should use
 ```css
