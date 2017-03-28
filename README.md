@@ -18,6 +18,7 @@ CSS related stuff
 * [Best free stock photos in one place](#user-content-best-free-stock-photos-in-one-place)
 * [Flag icons](#user-content-flag-icons)
 * [CSS features you should use](#user-content-css-features-you-should-use)
+* [EMOJI CSS](#user-content-emoji-css)
 
 ### inspiration
 [dribbble.com](https://dribbble.com/)
@@ -104,3 +105,6 @@ margin: 0 auto; /* Margins with auto on the left and right are used to center an
 
 
 ```
+
+### EMOJI CSS
+[EMOJI CSS](https://github.com/afeld/emoji-css/)
