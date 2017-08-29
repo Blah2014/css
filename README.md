@@ -16,6 +16,8 @@ CSS related stuff
 * [Flag icons](#user-content-flag-icons)
 * [CSS features you should use](#user-content-css-features-you-should-use)
 * [EMOJI CSS](#user-content-emoji-css)
+* [letter effect](https://codepen.io/mlms13/pen/LKFoy)
+* [bootstrap panel letter effect](#bootstrap-panel-letter-effect)
 
 ### inspiration
 [dribbble.com](https://dribbble.com/)
@@ -105,3 +107,37 @@ margin: 0 auto; /* Margins with auto on the left and right are used to center an
 
 ### EMOJI CSS
 [EMOJI CSS](https://github.com/afeld/emoji-css/)
+
+### bootstrap panel letter effect
+```
+.letter {
+    position: relative;
+  }
+.letter:before, .letter:after {
+    content: "";
+    height: 98%;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  }
+  .letter:before {
+    background: #fafafa;
+    left: -5px;
+    top: 4px;
+    transform: rotate(-2.5deg);
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  }
+  .letter:after {
+    background: #f6f6f6;
+    right: -3px;
+    top: 1px;
+    transform: rotate(1.4deg);
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  }
+```
+usage
+```
+<div class="panel panel-default letter" ...
+```
