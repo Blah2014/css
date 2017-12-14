@@ -18,6 +18,7 @@ CSS related stuff
 * [EMOJI CSS](#user-content-emoji-css)
 * [letter effect](https://codepen.io/mlms13/pen/LKFoy)
 * [bootstrap panel letter effect](#bootstrap-panel-letter-effect)
+* [Tools & Resources](http://facebook.design/toolsandresources/)
 
 ### inspiration
 [dribbble.com](https://dribbble.com/)
